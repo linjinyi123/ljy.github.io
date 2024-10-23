@@ -76,8 +76,13 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ### Published Research
 
-- "Research on Optimization of Investment Portfolio in the New Energy Vehicle Industry Chain" (Published in EMFRM 2023).
-- "An Empirical Research on Influencing Factors of Stock Returns in the National Defense and Military Industry" (Published in BCP Business & Management, Vol. 40, No. 3, 2023).
+- **"Research on Optimization of Investment Portfolio in the New Energy Vehicle Industry Chain"**  
+  *EMFRM 2023*  
+  DOI: [10.54097/yn3v7254](https://doi.org/10.54097/yn3v7254)  
+
+- **"An Empirical Research on Influencing Factors of Stock Returns in the National Defense and Military Industry"**  
+  *BCP Business & Management, Vol. 40, No. 3, 2023*  
+  DOI: [10.54691/bcpbm.v40i.4363](https://doi.org/10.54691/bcpbm.v40i.4363) 
 
   
 
