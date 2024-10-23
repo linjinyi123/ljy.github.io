@@ -23,28 +23,42 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ## Professional Experience
 
-### QianHai FoFs, Aug 2024 – Sep 2024  
+### QianHai FoFs, Shenzhen  
 #### Investment Summer Analyst  
+*Aug 2024 – Sep 2024*  
 - Researched the low-altitude economy and drone formation industry, contributing to a 51-page investment proposal for a leading company in the field.  
 - Compiled data on Chinese stock markets' listed companies over the past two years, focusing on the average chairman age at listing and the average time from company founding to IPO.  
 
-### Spinel Capital, Jun 2024 – Jul 2024  
+---
+
+### Spinel Capital, Shanghai  
 #### Investment Summer Analyst  
+*Jun 2024 – Jul 2024*  
 - Conducted research on AI companies and large language models, compiling details on the latest developments, such as Baidu's Ernie Bot.  
 - Participated in the 2024 WAIC conference, attended key forums, and presented insights on AI trends and startup innovations to senior management.  
 
-### China Merchants Capital, Aug 2023 – Sep 2023  
+---
+
+### China Merchants Capital, Shenzhen  
 #### Investment Analyst Intern  
+*Aug 2023 – Sep 2023*  
 - Analyzed and formatted investment proposals for companies in the 3D printing (Additive Manufacturing) market and researched the large integrated die-casting machine market to identify missing data.  
 
-### Vision Academy, Jul 2022 - Aug 2022
+---
+
+### Vision Academy, Hangzhou  
 #### Lead Math Tutor  
+*Jul 2022 – Aug 2022*  
 - Guided students through advanced problem-solving, conducted mock exams, and provided personalized feedback to support their learning.
 
-### Changjiang Securities, Jun 2022 – Jul 2022  
+---
+
+### Changjiang Securities, Dongguan  
 #### Investment Banking Summary Analyst  
+*Jun 2022 – Jul 2022*  
 - Assisted in an IPO project for a semiconductor company by reviewing financial documents and conducting on-site visits.  
 
+---
 
 
 
