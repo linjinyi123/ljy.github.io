@@ -20,6 +20,30 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 - **Bachelor’s in Mathematics**, Imperial College London (2021-2024)
   - Achieved First-Class Honors (83%) and placed on the Dean's List for three consecutive years.
   - Core modules include Optimisation, Applied Statistical Inference, and Methods for Data Science.
+
+## Professional Experience
+
+### QianHai FoFs, Investment Summer Analyst (Aug 2024 – Sep 2024)
+- Researched the low-altitude economy and drone formation industry, contributing to a 51-page investment proposal for a leading company in the field.
+
+### Spinel Capital, Investment Summer Analyst (Jun 2024 – Jul 2024)
+- Conducted research on AI and large language models, focusing on the latest advancements such as Baidu's Ernie Bot.
+
+### Changjiang Securities, Investment Banking Summary Analyst (Jun 2022 – Jul 2022)
+- Assisted in an IPO project for a semiconductor company by reviewing financial documents and conducting on-site visits.
+
+## Projects and Publications
+
+### Academic Projects
+
+- **Estimating Age-Specific Fertility Rates at County-Level in the USA (2023)**
+  - Developed a generalized Poisson regression model to analyze demographic factors affecting fertility rates.
+
+### Published Research
+
+- "Research on Optimization of Investment Portfolio in the New Energy Vehicle Industry Chain" (Published in EMFRM 2023).
+- "An Empirical Research on Influencing Factors of Stock Returns in the National Defense and Military Industry" (Published in BCP Business & Management, Vol. 40, No. 3, 2023).
+
   
 About Me
 ======
