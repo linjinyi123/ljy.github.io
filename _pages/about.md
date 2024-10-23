@@ -15,7 +15,7 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ### Education
 
-- **Master’s in Mathematics and Finance**, Imperial College London (2024-2025, Expected)
+- **Master’s in Mathematics and Finance**, Imperial College London (2024-2025)
   - Core modules include Option Pricing Theory, Quantitative Risk Management, and Computing in Finance (Python & C++).
 - **Bachelor’s in Mathematics**, Imperial College London (2021-2024)
   - Achieved First-Class Honors (83%) and placed on the Dean's List for three consecutive years.
@@ -23,15 +23,32 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ## Professional Experience
 
-### QianHai FoFs        Shenzhen, China (Aug 2024 – Sep 2024)
-#### Investment Summer Analyst 
-- Researched the low-altitude economy and drone formation industry, contributing to a 51-page investment proposal for a leading company in the field.
+### QianHai FoFs, Aug 2024 – Sep 2024  
+#### Investment Summer Analyst  
+- Researched the low-altitude economy and drone formation industry, contributing to a 51-page investment proposal for a leading company in the field.  
+- Compiled data on Chinese stock markets' listed companies over the past two years, focusing on the average chairman age at listing and the average time from company founding to IPO.  
 
-### Spinel Capital, Investment Summer Analyst (Jun 2024 – Jul 2024)
-- Conducted research on AI and large language models, focusing on the latest advancements such as Baidu's Ernie Bot.
+### Spinel Capital, Jun 2024 – Jul 2024  
+#### Investment Summer Analyst  
+- Conducted research on AI companies and large language models, compiling details on the latest developments, such as Baidu's Ernie Bot.  
+- Participated in the 2024 WAIC conference, attended key forums, and presented insights on AI trends and startup innovations to senior management.  
 
-### Changjiang Securities, Investment Banking Summary Analyst (Jun 2022 – Jul 2022)
-- Assisted in an IPO project for a semiconductor company by reviewing financial documents and conducting on-site visits.
+### China Merchants Capital, Aug 2023 – Sep 2023  
+#### Investment Analyst Intern  
+- Analyzed and formatted investment proposals for companies in the 3D printing (Additive Manufacturing) market and researched the large integrated die-casting machine market to identify missing data.  
+
+### Vision Academy, Jul 2022 - Aug 2022
+#### Lead Math Tutor  
+- Guided students through advanced problem-solving, conducted mock exams, and provided personalized feedback to support their learning.
+
+### Changjiang Securities, Jun 2022 – Jul 2022  
+#### Investment Banking Summary Analyst  
+- Assisted in an IPO project for a semiconductor company by reviewing financial documents and conducting on-site visits.  
+
+
+
+
+
 
 ## Projects and Publications
 
