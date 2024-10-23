@@ -42,7 +42,7 @@ I’m passionate about leveraging mathematical models to solve real-world financ
   DOI: [10.54691/bcpbm.v40i.4363](https://doi.org/10.54691/bcpbm.v40i.4363)
 
   
-## Professional Experience
+## Experiences
 
 ### QianHai FoFs, Shenzhen, China
 #### Investment Summer Analyst  
@@ -81,7 +81,16 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ---
 
+## Skills
 
+### Technical Skills
+- **Programming**: Python (Advanced), R (Proficient), SQL (Proficient), Excel (Advanced)
+- **Financial Tools**: Quantitative Risk Management, DCF Valuation Models, Time Series Analysis
+
+### Languages
+- Business Fluency in English
+- Native in Mandarin
+- Conversant in Cantonese
 
 
 
