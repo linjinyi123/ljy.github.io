@@ -21,6 +21,27 @@ I’m passionate about leveraging mathematical models to solve real-world financ
   - Achieved First-Class Honors (83%) and placed on the Dean's List for three consecutive years.
   - Core modules include Optimisation, Applied Statistical Inference, and Methods for Data Science.
 
+## Projects and Publications
+
+### Academic Projects
+
+- **Estimating Age-Specific Fertility Rates at County-Level in the USA (2023)**
+  - Developed a generalized Poisson regression model to analyze demographic factors affecting fertility rates.
+ 
+- **Kernel Density Estimation (2022)**
+  - Conducted a study on kernel density estimation methods to estimate probability density functions from known data points.  
+
+### Published Research
+
+- **"Research on Optimization of Investment Portfolio in the New Energy Vehicle Industry Chain"**  
+  *EMFRM 2023*  
+  DOI: [10.54097/yn3v7254](https://doi.org/10.54097/yn3v7254)  
+
+- **"An Empirical Research on Influencing Factors of Stock Returns in the National Defense and Military Industry"**  
+  *BCP Business & Management, Vol. 40, No. 3, 2023*  
+  DOI: [10.54691/bcpbm.v40i.4363](https://doi.org/10.54691/bcpbm.v40i.4363)
+
+  
 ## Professional Experience
 
 ### QianHai FoFs, Shenzhen, China
@@ -64,25 +85,7 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 
 
-## Projects and Publications
 
-### Academic Projects
-
-- **Estimating Age-Specific Fertility Rates at County-Level in the USA (2023)**
-  - Developed a generalized Poisson regression model to analyze demographic factors affecting fertility rates.
- 
-- **Kernel Density Estimation (2022)**
-  - Conducted a study on kernel density estimation methods to estimate probability density functions from known data points.  
-
-### Published Research
-
-- **"Research on Optimization of Investment Portfolio in the New Energy Vehicle Industry Chain"**  
-  *EMFRM 2023*  
-  DOI: [10.54097/yn3v7254](https://doi.org/10.54097/yn3v7254)  
-
-- **"An Empirical Research on Influencing Factors of Stock Returns in the National Defense and Military Industry"**  
-  *BCP Business & Management, Vol. 40, No. 3, 2023*  
-  DOI: [10.54691/bcpbm.v40i.4363](https://doi.org/10.54691/bcpbm.v40i.4363) 
 
   
 
