@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Jinyi Lin, a graduate of Imperial College London with a Bachelor’s degree in Mathematics and currently pursuing a Master’s in Mathematics and Finance. I’m passionate about leveraging mathematical models to solve real-world financial problems. I have hands-on experience in quantitative research, investment analysis, and financial modeling through my academic background and various internships. I enjoy working in fast-paced environments where I can use data-driven insights to make informed decisions.
+Hi! I'm Jinyi Lin, a graduate of Imperial College London with a Bachelor’s degree in Mathematics and currently pursuing a Master’s in Mathematics and Finance. I’m passionate about leveraging mathematical models to solve real-world financial problems. I have hands-on experience in quantitative research, investment analysis, and financial modeling through my academic background and various internships. I enjoy working in fast-paced environments where I can use data-driven insights to make informed decisions.
 
 ## Education
 
