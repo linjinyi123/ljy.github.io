@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jinyi Lin's Portfolio"
+title                    : "Jinyi Lin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jinyi Lin"
 description              : &description "a final year postgraduate student at Imperial College London"
