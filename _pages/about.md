@@ -23,7 +23,7 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ## Professional Experience
 
-### QianHai FoFs, Shenzhen  
+### QianHai FoFs, Shenzhen, China
 #### Investment Summer Analyst  
 *Aug 2024 – Sep 2024*  
 - Researched the low-altitude economy and drone formation industry, contributing to a 51-page investment proposal for a leading company in the field.  
@@ -31,7 +31,7 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ---
 
-### Spinel Capital, Shanghai  
+### Spinel Capital, Shanghai, China  
 #### Investment Summer Analyst  
 *Jun 2024 – Jul 2024*  
 - Conducted research on AI companies and large language models, compiling details on the latest developments, such as Baidu's Ernie Bot.  
@@ -39,21 +39,21 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ---
 
-### China Merchants Capital, Shenzhen  
+### China Merchants Capital, Shenzhen, China  
 #### Investment Summer Analyst  
 *Aug 2023 – Sep 2023*  
 - Analyzed and formatted investment proposals for companies in the 3D printing (Additive Manufacturing) market and researched the large integrated die-casting machine market to identify missing data.  
 
 ---
 
-### Vision Academy, Hangzhou  
+### Vision Academy, Hangzhou, China  
 #### Lead Math Tutor  
 *Jul 2022 – Aug 2022*  
 - Guided students through advanced problem-solving, conducted mock exams, and provided personalized feedback to support their learning.
 
 ---
 
-### Changjiang Securities, Dongguan  
+### Changjiang Securities, Dongguan, China  
 #### Investment Banking Summary Analyst  
 *Jun 2022 – Jul 2022*  
 - Assisted in an IPO project for a semiconductor company by reviewing financial documents and conducting on-site visits.  
@@ -70,6 +70,9 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 - **Estimating Age-Specific Fertility Rates at County-Level in the USA (2023)**
   - Developed a generalized Poisson regression model to analyze demographic factors affecting fertility rates.
+ 
+- **Kernel Density Estimation (2022)**
+  - Conducted a study on kernel density estimation methods to estimate probability density functions from known data points.  
 
 ### Published Research
 
@@ -77,13 +80,6 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 - "An Empirical Research on Influencing Factors of Stock Returns in the National Defense and Military Industry" (Published in BCP Business & Management, Vol. 40, No. 3, 2023).
 
   
-About Me
-======
-I’m passionate about leveraging mathematical models to solve real-world financial problems. I have hands-on experience in quantitative research, investment analysis, and financial modeling through various internships in China and the UK. I enjoy working in fast-paced environments where I can use data-driven insights to make informed decisions."
-
-Academic and Professional Interest
-======
-My academic interests focus on quantitative finance, financial modeling, and data analysis. I have hands-on experience conducting market valuations and analyzing industry trends, which I further developed during my internship projects, including work in the emerging drone formation industry. With a strong mathematical foundation and a keen interest in investment strategies, I am looking to leverage my skills in financial research and trading.
 
 
 Site-wide configuration
