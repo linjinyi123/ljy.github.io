@@ -40,7 +40,7 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 ---
 
 ### China Merchants Capital, Shenzhen  
-#### Investment Analyst Intern  
+#### Investment Summer Analyst  
 *Aug 2023 – Sep 2023*  
 - Analyzed and formatted investment proposals for companies in the 3D printing (Additive Manufacturing) market and researched the large integrated die-casting machine market to identify missing data.  
 
