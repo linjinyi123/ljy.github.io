@@ -12,7 +12,7 @@ title                    : "Jinyi Lin's Portfolio"
 title_separator          : "-"
 name                     : &name "Jinyi Lin"
 description              : &description "a final year postgraduate student at Imperial College London"
-url                      : https://jinyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jinyi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
