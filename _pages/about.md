@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Jinyi Lin, a graduate of Imperial College London with a Bachelor’s degree in Mathematics and currently pursuing a Master’s in Mathematics and Finance. Over the years, I have consistently ranked among the top 10% of the faculty, achieving a place on the Dean's List for three consecutive years. With a passion for quantitative finance and extensive experience in investment research, I am eager to apply my skills in dynamic and innovative environments.
+Hello! I'm Jinyi Lin, a graduate of Imperial College London with a Bachelor’s degree in Mathematics and currently pursuing a Master’s in Mathematics and Finance. I’m passionate about leveraging mathematical models to solve real-world financial problems. I have hands-on experience in quantitative research, investment analysis, and financial modeling through my academic background and various internships. I enjoy working in fast-paced environments where I can use data-driven insights to make informed decisions.
 
-## About Me
-
-I’m passionate about leveraging mathematical models to solve real-world financial problems. I have hands-on experience in quantitative research, investment analysis, and financial modeling through my academic background and various internships. I enjoy working in fast-paced environments where I can use data-driven insights to make informed decisions.
-
-### Education
+## Education
 
 - **Master’s in Mathematics and Finance**, Imperial College London (2024-2025)
   - Core modules include Option Pricing Theory, Quantitative Risk Management, and Computing in Finance (Python & C++).
