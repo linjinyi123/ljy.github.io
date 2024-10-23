@@ -23,7 +23,8 @@ I’m passionate about leveraging mathematical models to solve real-world financ
 
 ## Professional Experience
 
-### QianHai FoFs, Investment Summer Analyst (Aug 2024 – Sep 2024)
+### QianHai FoFs        Shenzhen, China (Aug 2024 – Sep 2024)
+#### Investment Summer Analyst 
 - Researched the low-altitude economy and drone formation industry, contributing to a 51-page investment proposal for a leading company in the field.
 
 ### Spinel Capital, Investment Summer Analyst (Jun 2024 – Jul 2024)
